@@ -1,0 +1,16 @@
+#cor-01{
+    background-color: rgb(146, 43, 236);
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+body{
+    background-color: rgb(110, 0, 212);
+}
+#logo{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    display: flex;
+}
