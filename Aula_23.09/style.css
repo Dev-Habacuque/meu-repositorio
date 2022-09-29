@@ -40,100 +40,34 @@ display: inline;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background-color: black;
-}
-#img-01{
-    height: 300px;
-    width: 500px;
-   
-}
-#img-02{
-    height: 300px;
-    width: 500px;
-}
-#img-03{
-    height: 300px;
-    width: 500px;
-}
-#img-04{
-    height: 300px;
-    width: 500px;
-}
-#img-05{
-    height: 300px;
-    width: 500px;
-}
-#img-06{
-    height: 300px;
-    width: 500px;
-}
-#img-07{
-    height: 300px;
-    width: 500px;
-
-}
-#img-08{
-    height: 300px;
-    width: 500px;
-}
-#img-09{
-    height: 300px;
-    width: 500px;
-}
-#img-010{
-    height: 300px;
-    width: 500px;
-}
-#img-011{
-    height: 300px;
-    width: 500px;
-}
-#img-012{
-    height: 300px;
-    width: 500px;
-}
-#img-013{
-    height: 300px;
-    width: 500px;
-}
-#img-014{
-    height: 300px;
-    width: 500px;
-}
-#img-015{
-    height: 300px;
-    width: 500px;
-}
-#img-016{
-    height: 300px;
-    width: 500px;
-}
-#img-017{
-    height: 300px;
-    width: 500px;
-}
-#img-018{
-    height: 300px;
-    width: 500px;
-}
-#img-019{
-    height: 300px;
-    width: 500px;
-}
-#img-020{
-    height: 300px;
-    width: 500px;
-}
-#img-021{
-    height: 300px;
-    width: 500px;
+    background-color: black;    
 }
 #logo{
     text-align: center;
     height: 150px;
     width: 150px;
     display: flex;
+    
 }
 #texto-footer{
     color: white;
 }
+.section-img{
+
+     flex-wrap: nowrap;
+     width: 100%;
+     justify-content: center;
+
+} 
+ .iteis-img img {
+    height: 300px;
+    width: 500px;
+}
+.todas-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+    
