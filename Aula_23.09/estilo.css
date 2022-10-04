@@ -17,8 +17,7 @@ display: inline;
     display: inline-block;
     padding: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    
+    font-size: 20px;   
 }
 #menu-home ul li:last-child a {
     float: right;
@@ -28,27 +27,19 @@ display: inline;
     background-color: rgb(123, 13, 197);
     color: rgb(6, 255, 172);
 }
-
-
-
-
-
-
-
-
 #cor-01{
-    background-color: rgb(146, 43, 236);
+    color: rgb(0, 0, 0); 
+}
+#cor-01{
+    background-color: rgb(0, 183, 255);
     text-align: center;
-    font-size: 60px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
 }
 body{
-    background-color: rgb(110, 0, 212);
+    background-color: rgb(0, 183, 255);
 }
 #logo{
-    text-align: center;
     height: 150px;
-    width: 150px;
-    display: flex;
+    width: 150px; 
 }

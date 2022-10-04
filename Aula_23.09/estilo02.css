@@ -18,8 +18,7 @@ display: inline;
     display: inline-block;
     padding: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    
+    font-size: 20px;    
 }
 #menu-home ul li:last-child a {
     float: right;
@@ -29,18 +28,13 @@ display: inline;
     background-color: rgb(123, 13, 197);
     color: rgb(6, 255, 172);
 }
-
-
 #p-01{
     font-family: Georgia, 'Times New Roman', Times, serif;  
     margin: 20px;
-    
-    
 }
 #p-02{
      font-family: Georgia, 'Times New Roman', Times, serif;
-     margin: 20px;
-     
+     margin: 20px;   
 }
 body{
     background-image: linear-gradient( 90deg, rgb(4, 235, 243), rgb(181, 19, 230));
@@ -50,8 +44,8 @@ body{
     margin: 20px;
 }
 #button-01{
-    color: rgb(6, 255, 6);
-    background-color: black;
+    color: rgb(0, 0, 0);
+    background-color: rgb(72, 255, 0);
     margin: 20px;
     margin-top: 20px;
 }

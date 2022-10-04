@@ -40,7 +40,7 @@ display: inline;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 body{
-    background-color: black;    
+    background-color: rgb(8, 7, 7);    
 }
 #logo{
     text-align: center;
@@ -50,7 +50,8 @@ body{
     
 }
 #texto-footer{
-    color: white;
+    color: rgb(0, 247, 255);
+    background-color: rgb(67, 8, 122);
 }
 .section-img{
 
@@ -68,6 +69,15 @@ body{
     justify-content: center;
     width: 100%;
     text-align: center;
+}
+#color-02{
+    color: aqua;
+    text-align: center;
+}
+#banner{
+    justify-content: center;
+    width: 1550px;
+   
 }
 
     
