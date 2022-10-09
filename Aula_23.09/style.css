@@ -1,7 +1,10 @@
 *{
-    margin: 0 auto;
-    padding: 0;
-    box-sizing: border-box;
+    /* margin: 0 auto;
+    padding: 0;*/
+    box-sizing: border-box; 
+}
+img{
+    width: 100%;
 }
 #menu-home{
     list-style: none;
@@ -74,10 +77,5 @@ body{
     color: aqua;
     text-align: center;
 }
-#banner{
-    justify-content: center;
-    width: 1550px;
-   
-}
 
-    
+   
